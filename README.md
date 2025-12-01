@@ -15,6 +15,10 @@ Consistent, recognizable branding is a core part of Lemonlime Linux’s identity
 
 You may use these assets in Lemonlime Linux contexts, following the [LICENSE](LICENSE).
 
+## Project Roadmap
+
+See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1) for high-level goals, milestones, and progress across all repositories.
+
 ## License
 
 [CC0-1.0](LICENSE)
