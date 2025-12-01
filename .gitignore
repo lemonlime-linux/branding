@@ -1,0 +1,10 @@
+# Ignore working files and previews
+*.xcf
+*.psd
+*.kra
+*.svg~
+*~
+
+# Editor/OS junk
+.DS_Store
+Thumbs.db
